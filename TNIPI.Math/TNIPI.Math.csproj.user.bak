@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>c:\schlumberger\petrel 2009\petrel.exe</StartProgram>
+    <StartWorkingDirectory>c:\schlumberger\petrel 2009</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>c:\schlumberger\petrel 2009\Public</ReferencePath>
+  </PropertyGroup>
+</Project>

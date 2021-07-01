@@ -1,0 +1,10 @@
+c:\schlumberger\petrel 2009\Extensions\TNIPI.Math.dll
+c:\schlumberger\petrel 2009\Extensions\TNIPI.Math.pdb
+D:\PROJECT\Ocean 2009\TNIPI.Math\TNIPI.Math\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT\Ocean 2009\TNIPI.Math\TNIPI.Math\obj\Release\TNIPI.Math.dll
+D:\PROJECT\Ocean 2009\TNIPI.Math\TNIPI.Math\obj\Release\TNIPI.Math.pdb
+D:\PROJECT\Ocean 2010\TNIPI.Math\TNIPI.Math\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT\Ocean 2010\TNIPI.Math\TNIPI.Math\obj\Release\TNIPI.Math.dll
+D:\PROJECT\Ocean 2010\TNIPI.Math\TNIPI.Math\obj\Release\TNIPI.Math.pdb
+c:\schlumberger\petrel 2010\Extensions\TNIPI.Math.dll
+c:\schlumberger\petrel 2010\Extensions\TNIPI.Math.pdb
